@@ -7,3 +7,5 @@ Before running the game, make sure you have Python installed on your system. You
 ## How to Play
 Click on the cookie image to increase your click count.
 Your current click count will be displayed at the top of the game window.
+
+
